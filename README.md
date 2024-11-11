@@ -9,7 +9,7 @@ https://hyundoil.tistory.com/400
 https://hyundoil.tistory.com/401
 
 
-
+```
 project/
 │
 ├── open/
@@ -25,3 +25,4 @@ project/
 ├── .gitignore
 ├── 02.My_LLM_fine_tuning01.ipynb
 └── 02.My_LLM_fine_tuning02.ipynb
+```
