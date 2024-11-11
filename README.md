@@ -1,6 +1,8 @@
 
 # PEFT (QLoRA) 실습 
 
+https://hyundoil.tistory.com/401
+
 
 
 project/
